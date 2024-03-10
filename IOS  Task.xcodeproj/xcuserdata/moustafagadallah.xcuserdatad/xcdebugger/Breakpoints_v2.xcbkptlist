@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "12248A1E-391D-476F-A6E8-2AEBBD7898EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60FC1357-8261-49E2-BC94-804E88011B0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOS  Task/Extenstion/Decodable + Parsing.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "decode(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60FC1357-8261-49E2-BC94-804E88011B0D - 2d80d1ab3a03ecad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Swift.Decodable.decode(Foundation.Data) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "IOS  Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moustafagadallah/Desktop/IOS%20%20Task/IOS%20%20Task/Extenstion/Decodable%20+%20Parsing.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "60FC1357-8261-49E2-BC94-804E88011B0D - 2d80d1ab3a03ecad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Swift.Decodable.decode(Foundation.Data) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "IOS  Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moustafagadallah/Desktop/IOS%20%20Task/IOS%20%20Task/Extenstion/Decodable%20+%20Parsing.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "541">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2480A7F7-9111-4AD7-96BE-12EA8E1C0101"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOS  Task/Extenstion/Decodable + Parsing.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "decode(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2480A7F7-9111-4AD7-96BE-12EA8E1C0101 - 2d80d1ab3a03ed6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Swift.Decodable.decode(Foundation.Data) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "IOS  Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moustafagadallah/Desktop/IOS%20%20Task/IOS%20%20Task/Extenstion/Decodable%20+%20Parsing.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  uuid = "2480A7F7-9111-4AD7-96BE-12EA8E1C0101 - 2d80d1ab3a03ed6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Swift.Decodable.decode(Foundation.Data) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "IOS  Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moustafagadallah/Desktop/IOS%20%20Task/IOS%20%20Task/Extenstion/Decodable%20+%20Parsing.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "187">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
