@@ -1,6 +1,6 @@
 - this Taks Builded with MVVM Design Pattern and data Binding With Clsoures.
 
-  - Thrid Parties added :-
+  - Thrid Parties added as (Swift Package Manager) :-
     - Alamofire
     - Almofire Image
 Screen Shot:-
