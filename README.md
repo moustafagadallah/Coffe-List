@@ -1,8 +1,10 @@
 - this Taks Builded with MVVM Design Pattern and data Binding With Clsoures.
 
-  - Thrid Parties added as (Swift Package Manager) :-
+  - Third Parties added as (Swift Package Manager) :-
     - Alamofire
     - Almofire Image
+   
+    UI - With StoryBoards
 Screen Shot:-
 
 
